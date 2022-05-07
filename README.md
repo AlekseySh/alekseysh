@@ -4,13 +4,11 @@ I was graduated as master in applied math and physics 🎓 which helped me to st
 In the next several years I tasted different stuff like:
 
 📖 doing NLP
-
 📹 doing computer vision
 
 💾 working with tabular data
 
-🔧 making some infrastructure things
-
+🔧 making some infrastructure things¬
 🚴 participating in competitions
 
 📝 writing posts
@@ -26,7 +24,7 @@ After this "breadth-first search" I decided to dive deep into computer vision to
 * 2-nd place in Uber's competition about predicting road accidents, [link](https://github.com/AlekseySh/uber_competition)
 * top 1.5% in Facebook AI Image Similarity Challenge, [link](https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/leaderboard/) 
 * NLP tutorial about Hierarchical Attention Network for sentiment classification, [link](https://github.com/AlekseySh/ml-recipe-hier-attention)
-* public lecture about Re-Identification task, [link](https://www.youtube.com/watch?v=O8qtBYeOSKE)
+* public lecture about person Re-Identification task, [link](https://www.youtube.com/watch?v=O8qtBYeOSKE)
 
 
 [Link to my CV](https://github.com/AlekseySh/resume/blob/main/Aleksei_Shabanov.pdf).
