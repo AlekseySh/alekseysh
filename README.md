@@ -8,7 +8,11 @@ Link to my [CV](https://github.com/AlekseySh/resume/blob/main/Aleksei_Shabanov.p
 
 **Some highlights:**
 ⚡ catalyst (todo)
+
 ⚡ 2-nd place in Uber's competition about predicting road accidents, [link](https://github.com/AlekseySh/uber_competition)
+
 ⚡ top 1.5% in Facebook AI Image Similarity Challenge, [link](https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/leaderboard/) 
+
 ⚡ NLP tutorial about Hierarchical Attention Network for sentiment classification, [link](https://github.com/AlekseySh/ml-recipe-hier-attention)
+
 ⚡ public lecture about Re-Identification task, [link](https://www.youtube.com/watch?v=O8qtBYeOSKE)
