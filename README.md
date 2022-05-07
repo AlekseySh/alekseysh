@@ -2,12 +2,19 @@
 
 I was graduated as master in applied math and physics 🎓 which helped me to start my DS path in 2016 as data analyst for transactions on the stock exchange 💸. 
 In the next several years I tasted different stuff like:
+
 📖 doing NLP
+
 📹 doing computer vision
+
 💾 working with tabular data
+
 🔧 making some infrastructure things
+
 🚴 participating in competitions
+
 📝 writing posts
+
 and so on. 
 
 After this "breadth-first search" I decided to dive deep into computer vision topics. In particular, after having several projects related to metric learning I made the corresponding open-source contribution and started doing some scientific research 📐. 
