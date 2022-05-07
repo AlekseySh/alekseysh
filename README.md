@@ -1,10 +1,16 @@
-## I'm Aleksei Shabanov
+## Hi there, I'm Aleksei Shabanov! 👋
 
-I was graduated as master in applied math and physics which helped me to start my DS path in 2016 as data analyst for transactions on the stock exchange. In the next several years I tasted different stuff like working with NLP, tabular data, computer vision; doing some infrastructure things; participating in competitions; writing posts and so on. 
+I was graduated as master in applied math and physics 🎓 which helped me to start my DS path in 2016 as data analyst for transactions on the stock exchange 💸. 
+In the next several years I tasted different stuff like:
+📖 doing NLP
+📹 doing computer vision
+💾 working with tabular data
+🔧 making some infrastructure things
+🚴 participating in competitions
+📝 writing posts
+and so on. 
 
-After this "breadth-first search" I decided to dive deep into computer vision topics. In particular, after having several projects related to metric learning I made an open-source contribution 
-
-
+After this "breadth-first search" I decided to dive deep into computer vision topics. In particular, after having several projects related to metric learning I made the corresponding open-source contribution and started doing some scientific research 📐. 
 
 
 ### Some highlights:
@@ -16,4 +22,4 @@ After this "breadth-first search" I decided to dive deep into computer vision to
 * public lecture about Re-Identification task, [link](https://www.youtube.com/watch?v=O8qtBYeOSKE)
 
 
-Link to my [CV](https://github.com/AlekseySh/resume/blob/main/Aleksei_Shabanov.pdf).
+[Link to my CV](https://github.com/AlekseySh/resume/blob/main/Aleksei_Shabanov.pdf).
