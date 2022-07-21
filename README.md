@@ -13,7 +13,7 @@ After this "breadth-first search" I decided to dive deeper into computer vision 
 
 
 ### Some highlights:
-
+* I'm author of [OpenMetricLearning](https://github.com/OML-Team/open-metric-learning) library. Please, note, that the project is under the construction now and I am going to release it soon.
 * I'm one of the most active developers of [Catalyst](https://github.com/catalyst-team/catalyst) (it's analogue of PyTorch Lightning). My contribution is in creating a module for triplets based training and futher retrieval like validation, [link](https://medium.com/pytorch/metric-learning-with-catalyst-8c8337dfab1a).
 * 2-nd place in Uber's competition about predicting road accidents, [link](https://github.com/AlekseySh/uber_competition)
 * top 1.5% in Facebook AI Image Similarity Challenge, [link](https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/leaderboard/) 
