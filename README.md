@@ -1,6 +1,6 @@
 ## Hi there, I'm Aleksei Shabanov aka @Bender! 👋
 
-I was graduated as master in Applied math & Physics, which helped me to start my DS path in 2016. Despite my expierence in NLP and tabular data, I've decided to narrow down my focus on Computer Vision. **Now I am leading a computer vision team working on representation learning for fashion items.**
+I was graduated as master in Applied math & Physics, which helped me to start my DS path in 2016. Despite my expierence in NLP and tabular data, I mostly focus on Computer Vision. **Now I am leading a computer vision team working on representation learning for fashion items.**
 
 
 ### Some highlights:
