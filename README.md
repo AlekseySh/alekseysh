@@ -12,4 +12,4 @@ I was graduated as master in Applied math & Physics, which helped me to start my
 * Public lecture about person Re-Identification task, [link](https://www.youtube.com/watch?v=O8qtBYeOSKE)
 
 
-[Link to my CV](https://github.com/AlekseySh/resume/blob/main/Aleksei_Shabanov.pdf).
+[Link to my CV](https://github.com/AlekseySh/resume).
