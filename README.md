@@ -2,7 +2,7 @@
 
 [**My CV**](https://github.com/AlekseySh/resume).
 
-MLE with 7+ years of experience in industry, open-source, teaching, and academia. Particulary interested in Computer Vision, NLP and Deep Learning in general. PhD candidate at [Steklov Mathematical Institute](http://www.pdmi.ras.ru/eng/institut/institut.php).
+MLE with 7+ years of experience in industry, open-source, teaching, and academia. Particularly interested in Computer Vision, NLP and Deep Learning in general. PhD candidate at [Steklov Mathematical Institute](http://www.pdmi.ras.ru/eng/institut/institut.php).
 
 ### Some highlights:
 * Author of [OpenMetricLearning](https://github.com/OML-Team/open-metric-learning).
