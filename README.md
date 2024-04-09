@@ -11,6 +11,5 @@ MLE with 7+ years of experience in industry, open-source, teaching, and academia
 * Former active developer of [Catalyst](https://github.com/catalyst-team/catalyst). Implemented [metric learning](https://medium.com/pytorch/metric-learning-with-catalyst-8c8337dfab1a) submodule.
 * Kaggle competitions [expert](https://www.kaggle.com/aglasis).
 * 2-nd place in Uber's competition about predicting road accidents, [link](https://github.com/AlekseySh/uber_competition)
-* Top 1.5% in Facebook AI Image Similarity Challenge, [link](https://www.drivendata.org/competitions/79/competition-image-similarity-1-dev/leaderboard/) 
 * NLP tutorial about Hierarchical Attention Network for sentiment classification, [link](https://github.com/AlekseySh/ml-recipe-hier-attention)
 * Public lecture about person Re-Identification task, [link](https://www.youtube.com/watch?v=O8qtBYeOSKE)
