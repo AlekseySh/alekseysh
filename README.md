@@ -2,15 +2,12 @@
 
 [**My CV**](https://github.com/AlekseySh/resume).
 
-MLE with 8+ years of experience in industry, open-source, teaching, and academia. Particularly interested in Computer Vision, NLP and Deep Learning in general. PhD candidate at [Steklov Mathematical Institute](http://www.pdmi.ras.ru/eng/institut/institut.php).
+MLE/DS with 9+ years of experience in industry, open-source, teaching, and academia. Particularly interested in Computer Vision, NLP and Deep Learning in general. 
+PhD candidate at [Steklov Mathematical Institute](http://www.pdmi.ras.ru/eng/institut/institut.php).
 
 ### Some highlights:
 * Author of [OpenMetricLearning](https://github.com/OML-Team/open-metric-learning).
-* Aothor of [STIR: Siamese Transformer for Image Retrieval Postprocessing](https://arxiv.org/abs/2304.13393) (CIKM 2024).
+* Author of [STIR: Siamese Transformer for Image Retrieval Postprocessing](https://arxiv.org/abs/2304.13393) (CIKM 2024).
 * Teacher at Harbour University: [Neural Networks and Computer Vision](https://harbour.space/data-science/courses/neural-networks-and-computer-vision-nikolenko-shabanov-1011) course.
-* Supervised students from [HSE](https://www.hse.ru/en/).
 * Former active developer of [Catalyst](https://github.com/catalyst-team/catalyst). Implemented [metric learning](https://medium.com/pytorch/metric-learning-with-catalyst-8c8337dfab1a) submodule.
-* Kaggle competitions [expert](https://www.kaggle.com/aglasis).
-* 2-nd place in Uber's competition about predicting road accidents, [link](https://github.com/AlekseySh/uber_competition)
-* NLP tutorial about Hierarchical Attention Network for sentiment classification, [link](https://github.com/AlekseySh/ml-recipe-hier-attention)
-* Public lecture about person Re-Identification task, [link](https://www.youtube.com/watch?v=O8qtBYeOSKE)
+* Supervised students from [HSE](https://www.hse.ru/en/).
